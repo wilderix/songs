@@ -23,9 +23,6 @@ I wish I was a sacrifice but somehow still lived on
 I wish I was a sentimental ornament you hung on
     C                 C              F                 C
 The Christmas tree, I wish I was the star that went on top
-```
-Chorus:
-```
   F              C           F              C
 I wish I was the evidence, I wish I was the grounds
     F          C                  G               F     F
@@ -39,9 +36,6 @@ main riff x1
 I wish I was a sailor with someone who waited for me
   C             C             F            C
 I wish I was as fortunate, as fortunate as me
-```
-Chorus:
-```
   F            C             F                C
 I wish I was a messenger and all the news was good
   F              C                 G              F    F  F  F
@@ -58,9 +52,6 @@ Solo :
 I wish I was an alien at home behind the sun
   C              C            F                   C
 I wish I was the souvenir you kept your house key on
-```
-Chorus:
-```
   F              C                F            C
 I wish I was the pedal brake that you depended on
   F              C                   G             F    F
