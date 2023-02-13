@@ -10,9 +10,11 @@ D Em G C Am
 (Alternate D: use the C shape 2 frets up from normal C)
 
 ## Song
-Intro:  
+Intro:
+```
 Em G C x2
 G
+```
 
 Verse:
 ```
